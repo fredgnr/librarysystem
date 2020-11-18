@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.BookController.Post(cSharpfdfjk.domain.Book)">
+            <summary>
+            这是一个api方法的注释
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
